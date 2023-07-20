@@ -10,7 +10,7 @@ JavaScript, Node.js, Express, Webpack, IndexedDB
 - [Usage](#usage)
 - [Screenshots](#screenshots)
 - [Credits](#credits)
-- [Deployed Application](#link)
+- [Deployed Application](#link-to-deployed-page)
     
 ## Installation
 - Clone git repository
